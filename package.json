@@ -1,0 +1,21 @@
+{
+    "name": "naruto-color-theme",
+    "displayName": "NarutoTheme",
+    "description": "A tribute to the strongest Shinobi the world has seen.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NarutoTheme",
+                "uiTheme": "vs",
+                "path": "./themes/NarutoTheme-color-theme.json"
+            }
+        ]
+    }
+}
